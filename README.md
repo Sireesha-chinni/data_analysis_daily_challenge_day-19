@@ -1,4 +1,4 @@
-# 🌾 Farm Yield Optimization: SQL Challenge (Day 19)
+# Day 19 : Sql Challenge🌾 Farm Yield Optimization
 
 A SQL data analytics challenge for **Agri-Innovate**, a company that provides data-driven solutions to farmers. The goal is to analyze farm data (planting, irrigation, harvest) to improve crop yields and optimize resource allocation for the next season.
 
